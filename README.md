@@ -32,4 +32,4 @@ Si prefieres no trabajar localmente, este repositorio está preparado para ser e
 
 ## Presentaciones
 
-- [https://docs.google.com/presentation/d/1ONo9Aj9YPj2pSuc1vXjS9QWD7NIzN9xsVahEhZEoMq4/edit?usp=sharing](Clase 1)
+- [Clase 1](https://docs.google.com/presentation/d/1ONo9Aj9YPj2pSuc1vXjS9QWD7NIzN9xsVahEhZEoMq4/edit?usp=sharing)
