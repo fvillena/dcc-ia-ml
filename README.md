@@ -1,7 +1,7 @@
 # Diplomado en Inteligencia Artificial: Machine Learning
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fvillena/dcc-ia-ml/HEAD)
-[![Build Status](https://www.travis-ci.com/fvillena/dcc-ia-ml.svg?branch=master)](https://www.travis-ci.com/fvillena/dcc-ia-ml)
+[![Build Status](https://app.travis-ci.com/fvillena/dcc-ia-ml.svg?branch=main)](https://app.travis-ci.com/fvillena/dcc-ia-ml)
 
 Módulo de Machine Learning del Diplomado en Inteligencia Artificial del Departamento de Ciencias de la Computación de la Universidad de Chile. En este repositorio estarán disponibles todos los recursos que se generen en el curso.
 
@@ -32,4 +32,8 @@ Si prefieres no trabajar localmente, este repositorio está preparado para ser e
 
 ## Presentaciones
 
-- 
+-[Clase 1](https://docs.google.com/presentation/d/1ONo9Aj9YPj2pSuc1vXjS9QWD7NIzN9xsVahEhZEoMq4/edit?usp=sharing)
+
+-[Clase 2](https://docs.google.com/presentation/d/1nBgU2yx0c9YqiEwNAuGSCX0J-UBeWl1pFRJQIBs_o5c/edit?usp=sharing)
+
+-[Clase 3](https://docs.google.com/presentation/d/1gcrEWLOvdCkzOcsTcxbkivK1AYCBhQ81Bi-LPQL9Z_Y/edit?usp=sharing)
