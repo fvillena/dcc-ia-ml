@@ -18,3 +18,6 @@ def test_2():
 
 def test_3_1():
     _exec_notebook('3.1-knn.ipynb')
+
+def test_3_2():
+    _exec_notebook('3.2-scaling.ipynb')
