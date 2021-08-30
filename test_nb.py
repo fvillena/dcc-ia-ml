@@ -12,3 +12,6 @@ def _exec_notebook(path):
 
 def test_1():
     _exec_notebook('1-introduction.ipynb')
+
+def test_2():
+    _exec_notebook('1-classification_metrics.ipynb')
