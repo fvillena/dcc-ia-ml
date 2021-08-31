@@ -17,7 +17,7 @@ Pueden mirar este video para entender cómo funciona Git https://www.youtube.com
 
 ## Ambiente de trabajo
 
-A lo largo de todo el curso utilizaremos el lenguaje de programación Python con una serie de bibliotecas para ciencia de datos. Para ver la lista de bibliotecas usadas, referirse al archivo `requirements.txt`. Para la preparación local del ambiente de desarrollo recomendamos utilizar un ambiente virtual de Python para instalar los requerimientos del curso (`requirements.txt`), esto asegura la reproducibilidad del código generado en el curso. Para aprender sobre ambientes virtuales se recomienda leer estas páginas de documentación oficial
+A lo largo de todo el curso utilizaremos el lenguaje de programación Python 3.7 con una serie de bibliotecas para ciencia de datos. Para ver la lista de bibliotecas usadas, referirse al archivo `requirements.txt`. Para la preparación local del ambiente de desarrollo recomendamos utilizar un ambiente virtual de Python para instalar los requerimientos del curso (`requirements.txt`), esto asegura la reproducibilidad del código generado en el curso. Para aprender sobre ambientes virtuales se recomienda leer estas páginas de documentación oficial
 
 - [https://docs.python.org/3/library/venv.html](https://docs.python.org/3/library/venv.html)
 - [https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#using-requirements-files](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#using-requirements-files)
