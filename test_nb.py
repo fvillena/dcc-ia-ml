@@ -27,3 +27,6 @@ def test_4_2():
 
 def test_5_2():
     _exec_notebook('5.2-cross-validation.ipynb')
+
+def test_5_3():
+    _exec_notebook('5.3-grid-search.ipynb')
