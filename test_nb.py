@@ -21,3 +21,6 @@ def test_3_1():
 
 def test_3_2():
     _exec_notebook('3.2-scaling.ipynb')
+
+def test_4_2():
+    _exec_notebook('4.2-balancing.ipynb')
