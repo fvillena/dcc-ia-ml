@@ -28,6 +28,9 @@ def test_4_1():
 def test_4_2():
     _exec_notebook('4.2-balancing.ipynb')
 
+def test_5_1():
+    _exec_notebook('5.1-svm.ipynb')
+
 def test_5_2():
     _exec_notebook('5.2-cross-validation.ipynb')
 
