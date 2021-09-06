@@ -36,3 +36,6 @@ def test_5_2():
 
 def test_5_3():
     _exec_notebook('5.3-grid-search.ipynb')
+
+def test_6():
+    _exec_notebook('6-regression.ipynb')
