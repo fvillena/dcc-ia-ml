@@ -37,3 +37,9 @@ Si prefieres no trabajar localmente, este repositorio está preparado para ser e
 -[Clase 2](https://docs.google.com/presentation/d/1nBgU2yx0c9YqiEwNAuGSCX0J-UBeWl1pFRJQIBs_o5c/edit?usp=sharing)
 
 -[Clase 3](https://docs.google.com/presentation/d/1gcrEWLOvdCkzOcsTcxbkivK1AYCBhQ81Bi-LPQL9Z_Y/edit?usp=sharing)
+
+-[Clase 4](https://docs.google.com/presentation/d/1tLDa-fcSzV0keQkaSW99-wdKJ9RLZVJ5BD1diGSfoew/edit?usp=sharing)
+
+-[Clase 5](https://docs.google.com/presentation/d/1T6HnpRkvQ-NppF1_eshMhpefAWTHUXLAQB-Tkf3djvI/edit?usp=sharing)
+
+-[Clase 6](https://docs.google.com/presentation/d/1fV1wB0Czoh9mc6Gj5zR33txrhYe4cUBDu8R0x280sbM/edit?usp=sharing)
