@@ -39,3 +39,6 @@ def test_5_3():
 
 def test_6():
     _exec_notebook('6-regression.ipynb')
+
+def test_7():
+    _exec_notebook('7-dimensionality_reduction.ipynb')
