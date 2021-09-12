@@ -42,3 +42,6 @@ def test_6():
 
 def test_7():
     _exec_notebook('7-dimensionality_reduction.ipynb')
+
+def test_8():
+    _exec_notebook('8-clustering.ipynb')
